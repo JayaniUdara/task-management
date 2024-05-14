@@ -23,7 +23,7 @@ python manage.py migrate
 Start the Django development server:
 python manage.py runserver
 
-The server will start at http://localhost:8000.
+The server will start at http://localhost:8080.
 
 
 Frontend (React)
